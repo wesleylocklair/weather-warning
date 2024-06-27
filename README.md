@@ -6,6 +6,11 @@ I used MDN a lot for my research -
 https://developer.mozilla.org/en-US/
 
 ## Links
+Here is the link to the repo-
+https://github.com/wesleylocklair/weather-forecast
+
+Here is the link to the webpage -
+https://wesleylocklair.github.io/weather-forecast/
 
 ## Screenshots
 ![Screenshot (9)](https://github.com/wesleylocklair/weather-forecast/assets/171185367/81b68133-5076-4927-b537-7b49ec021b67)
