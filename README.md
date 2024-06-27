@@ -1,1 +1,12 @@
 # weather-forecast
+## Description
+In this project I am in the works of building a weather application. You will be able to put in any city and see the weather for the next 5 days. As of rightnow only the current weather in Charlotte NC is logged in the console when you press submit. I have not figured out how to use the input box html element to replace the location in the url. Going to mess with it more in the future.
+## Credits
+I used MDN a lot for my research - 
+https://developer.mozilla.org/en-US/
+
+## Links
+
+## Screenshots
+![Screenshot (9)](https://github.com/wesleylocklair/weather-forecast/assets/171185367/81b68133-5076-4927-b537-7b49ec021b67)
+
