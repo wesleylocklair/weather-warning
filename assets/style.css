@@ -1,0 +1,14 @@
+body{
+    background-color:lightblue;
+    color:black;
+}
+
+header{
+    color:black;
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: overline;
+    
+}
+
