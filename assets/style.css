@@ -1,6 +1,7 @@
 body{
     background-color:lightblue;
     color:black;
+    list-style-type: none;
 }
 
 header{
@@ -10,5 +11,11 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: overline;
     
+}
+
+.cityinfo {
+    list-style-type: none;
+    /* border-style: solid; */
+
 }
 
